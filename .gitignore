@@ -61682,9 +61682,3 @@ yarn-error.log
 .DS_Store
 Thumbs.db
 *.swp
-*.swo
-# ==========================================
-# PYTHON / BACKEND
-# ==========================================
-__pycache__/
-*.py[cod]
